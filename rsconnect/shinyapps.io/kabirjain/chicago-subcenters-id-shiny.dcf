@@ -1,0 +1,10 @@
+name: chicago-subcenters-id-shiny
+title:
+username: kabirjain
+account: kabirjain
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13666083
+bundleId: 9609384
+url: https://kabirjain.shinyapps.io/chicago-subcenters-id-shiny/
+version: 1
